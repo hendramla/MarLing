@@ -2,7 +2,7 @@
   "log": {
     "access": "/var/lib/marzban/access.log",
     "error": "/var/lib/marzban/error.log",
-    "loglevel": "warning"
+    "loglevel": "none"
   },
   "dns": {
     "servers": [
